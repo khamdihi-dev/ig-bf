@@ -1,4 +1,4 @@
 try:
     __import__('premium').folder()
-except Exception as p:exit(e)
+except Exception as p:exit(p)
 
